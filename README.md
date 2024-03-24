@@ -30,4 +30,4 @@ But everything was very easy, we were developing a control panel to facilitate
 the configurations that could be made in the system, and we chose the Tauri for
 its ease, below I will show you a little of what was already ready
 
-![suko](example-gif.gif)
+![suko](./suko_os.gif)
