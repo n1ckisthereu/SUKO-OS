@@ -86,3 +86,8 @@ yay -Syyyu --needed gtkmm3 \
   python-pywal \
   python-pywalfox
 ```
+
+See this two repos for get eww and hyprpanel
+
+[EWW](https://github.com/n1ckisthereu/eww)
+[HYPERPANEL](https://github.com/n1ckisthereu/hyperpanel)
