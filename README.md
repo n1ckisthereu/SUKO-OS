@@ -31,3 +31,57 @@ the configurations that could be made in the system, and we chose the Tauri for
 its ease, below I will show you a little of what was already ready
 
 ![suko](./suko_os.gif)
+
+### Dependencies
+
+- Install pywalfox extension in your browser
+
+```bash
+yay -Syyyu --needed gtkmm3 \
+  ripgrep \
+  playerctl \
+  gradience-git \
+  adw-gtk3-git \
+  jq \
+  eww-tray-wayland-git \
+  polkit-gnome \
+  swww \
+  pamixer \
+  grimblast-git \
+  thunar \
+  thunar-archive-plugin
+  file-roller \
+  xdg-user-dirs \
+  wf-recorder \
+  dbus-python \
+  python-gobject \
+  python-requests \
+  python-jinja \
+  python-material-color-utilities \
+  zenity \
+  socat \
+  hyprpicker-git \
+  nwg-look \
+  qt5ct \
+  qt6ct \
+  rust \
+  file \
+  openssl \
+  appmenu-gtk-module \
+  gtk3 \
+  libappindicator-gtk3 \
+  librsvg \
+  libvips \
+  webkit2gtk \
+  nmcli \
+  networkmanager \
+  pamixer \
+  sassc \
+  vesktop \
+  kitty \
+  swappy \
+  libqalculate \
+  lazygit \
+  neovide \
+  python-pywal
+```
