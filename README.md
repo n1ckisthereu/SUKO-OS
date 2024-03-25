@@ -91,3 +91,7 @@ See this two repos for get eww and hyprpanel
 
 [EWW](https://github.com/n1ckisthereu/eww)
 [HYPERPANEL](https://github.com/n1ckisthereu/hyperpanel)
+
+**OBS**:
+
+- Your wallpapers needed in this path: `$HOME/Pictures/Wallpapers`
