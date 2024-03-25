@@ -83,5 +83,6 @@ yay -Syyyu --needed gtkmm3 \
   libqalculate \
   lazygit \
   neovide \
-  python-pywal
+  python-pywal \
+  python-pywalfox
 ```
